@@ -1,0 +1,4 @@
+A scheduler event bridge triggers every day at 5pm to stop dev ec2 instance and also triggers 8am to start again using lambda.
+event:
+region -> the region of the instances
+action -> the action start or stop process

@@ -1,0 +1,2 @@
+Tracks EC2 instance events using aws config and lambda process the event and check if instance detailed monitoring enabled
+if yes status = COMPLIANT else status = NON_COMPLIANT.
